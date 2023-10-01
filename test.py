@@ -16,7 +16,7 @@ Also, found this picture online. Is this you?
 
 
 Thanks,
-Janice Lynne
+Name here
 
     """
     
